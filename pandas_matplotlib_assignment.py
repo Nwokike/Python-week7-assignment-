@@ -1,7 +1,3 @@
-# ==========================
-# Assignment: Data Analysis with Pandas & Matplotlib
-# ==========================
-
 # --- Task 1: Import Libraries ---
 import pandas as pd
 import matplotlib.pyplot as plt
